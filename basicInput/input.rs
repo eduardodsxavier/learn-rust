@@ -1,4 +1,4 @@
-use std::io;
+use std::io::{self, Read};
 
 fn main() {
     println!("give input: ");
